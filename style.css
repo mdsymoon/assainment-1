@@ -1,0 +1,200 @@
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    
+}
+.top-banner{
+    
+    height: 700px;
+    
+
+}
+.Photo-1{
+    float: right;
+    width: 40%;
+    margin-top: 80px;
+}
+.topper{
+    width: 40%;
+    float: left;
+    margin-left: 100px;
+    padding: 70px;
+
+}
+
+.Photo-2{
+    float: left;
+    width: 40%;
+   
+    margin-left: 100px;
+}
+.topper-2{
+    width: 40%;
+    float: right;
+    margin-top: 100px;
+    
+    padding: 70px;
+}
+.hello{
+    font-size: 40px;
+}
+.name-highlight{
+    font-size: 40px;
+    color: tomato;
+}
+.link-button{
+    width: 50px;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+}
+.option{ 
+   float:right;
+   
+    padding: 10px;
+    font-weight: 700;
+  
+}
+
+ .menu{ 
+    margin-right: 100px;
+    margin-top: 0px;
+}
+.head-bar{
+    height: 35px;
+}
+
+
+.photo-area{
+    
+    background-color:rgba(201, 203, 206, 0.979);
+    height: 600px;
+    
+}
+   
+
+.orange{
+    color:rgb(255, 102, 0);
+}
+
+.image{
+    width: 200px;
+    float: left;
+   
+    
+    
+}
+.full-content{
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.images{
+    margin-top: 50px;
+    margin-left:26%;
+    
+}
+.heading{
+    font-size: 30px; 
+    text-align: center;
+    padding-top: 70px;
+   
+
+}
+.para{
+    color: rgb(128, 124, 124);
+}
+.box1{
+    background-color: white;
+    padding:20px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.box2{
+    background-color: white;
+    padding:20px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.box3{
+    background-color: white;
+    padding:20px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.about{
+    margin-left: 20px;
+}
+.button{
+    float:right;
+    width: 30%
+}
+.boxbar{
+    background-image: url(image/Group_33094_1.png);
+    
+  
+}
+
+.btn{
+    float:right;
+    width: 100px;
+    height: 37px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 86px;
+    margin-right: 50px;
+    background-color: tomato;
+    color: white;
+
+}
+.inquiry{
+    background-image: url(image/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 820px;
+    height: 200px;
+    margin:auto;
+}
+h2{
+    color:white;
+    margin-left: 20px;
+    padding-top: 50px;
+    float:left;
+    font-size: 40px;
+}
+.media{
+    margin-top: 50px;
+    padding:50px;
+}
+.footer{
+    margin-left: 40%;
+    padding-bottom: 50px;
+}
+.hellow{
+    font-size: 30px;
+    font-weight: 800;
+    margin: 0px;
+}
+.stay{
+    margin-left:65px;
+    font-weight: 800;
+    color: rgb(90, 88, 88);
+}
+.icon{
+    margin-left:60px;
+
+}
+.size{
+    width: 30px;
+    padding: 10px;
+    
+
+}
